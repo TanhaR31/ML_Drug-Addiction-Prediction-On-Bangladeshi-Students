@@ -1,0 +1,105 @@
+Age,
+1 15-22
+2 22-35
+3 35-48
+
+Gender,
+1 Male
+2 Female
+
+Education,
+1 Primary-Education
+2 SSC/O-levels
+3 HSC/A-levels
+4 Undergraduate
+5 Postgraduate(MSc/PhD)
+
+Live with,
+1 With-Family/Relatives
+2  Hostel/Hall
+
+MotiveAboutDrug,
+1 Disease
+2 Social-Trend
+3 Should-Avoid
+
+Spend most time,
+1 Family/Relatives
+2 Friends
+3 Alone
+
+Failure in life,
+1 Yes
+2 No
+
+Mental/emotional problem,
+1 Depression/Inferiority/Guilt
+2 Tension/Anxiety
+3 Anger
+4 Others
+5 None
+
+Suicidal thoughts,
+1 Yes
+2 No
+
+Family relationship,
+1 Satisfactory
+2 Average
+3 Communication-Gap
+
+Financials of family,
+1 Poor
+2 Medium
+3 Solvent
+4 Rich
+
+Addicted person in family,
+1 Yes
+2 No
+3 Not-Sure
+
+Withdrawal symptoms,
+1 Yes
+2 No
+
+Satisfied with workplace,
+1 Yes
+2 No
+
+Case in court,
+1 Yes
+2 No
+
+Living with drug user,
+1 Yes
+2 No
+3 Not-Sure
+
+Smoking,
+1 Yes-Everyday
+2 Yes-Occasionally
+3 No
+
+Ever taken drug,
+1 Yes
+2 No
+
+Friends influence,
+1 Yes
+2 No
+
+If chance given to taste drugs,
+1 I-Will-Try
+2 No-I-Will-Not-Try
+3 I-Do-Not-Know
+
+Easy to control use of drug,
+1 Yes
+2 No
+
+Class,
+1 Regularly
+2 Once/Twice-A-Week
+3 Occasionally
+4 Never
